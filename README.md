@@ -1,1 +1,1 @@
-# ski-resort-management
+# Ski Resort Management App
